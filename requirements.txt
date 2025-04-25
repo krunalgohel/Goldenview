@@ -1,7 +1,2 @@
 streamlit
-pandas
-numpy
 openai
-requests
-gspread
-oauth2client
